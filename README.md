@@ -48,7 +48,6 @@ npm install digital-keyboard --save-dev
 <html>
 <head>
   <meta charset="UTF-8">
-  <meta name="author" content="simbawu">
   <title>Digital Keyboard</title>
 </head>
 <body>

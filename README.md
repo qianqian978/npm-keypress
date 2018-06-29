@@ -1,19 +1,6 @@
-# Digital Keyboard
+# Digital-Keyboard npm包开发
 
-[![Build Status](https://travis-ci.org/simbawus/DigitalKeyboard.svg?branch=master)](https://travis-ci.org/simbawus/DigitalKeyboard)
-[![Coverage Status](https://coveralls.io/repos/github/simbawus/DigitalKeyboard/badge.svg?branch=master)](https://coveralls.io/github/simbawus/DigitalKeyboard?branch=master)
-[![npm](https://img.shields.io/npm/v/digital-keyboard.svg)](https://www.npmjs.com/package/digital-keyboard)
-[![npm](https://img.shields.io/npm/dt/digital-keyboard.svg)](https://www.npmjs.com/package/digital-keyboard)
-[![GitHub license](https://img.shields.io/github/license/simbawus/DigitalKeyboard.svg)](https://github.com/simbawus/DigitalKeyboard/blob/master/LICENSE)
-
-###### [中文README](README-zh_CN.md)
-
-- Develop with native javascript, doesn't rely on any frameworks and libraries.
-- Support ID card, mobile number, integer, decimal, etc.
-- Easy API, easy use.
-- Development summary：[How to release a Digital Keyboard npm package](https://github.com/simbawus/blog/issues/12).
-
-[![Example](https://i.loli.net/2018/05/16/5afc5086957b3.gif)](https://i.loli.net/2018/05/16/5afc5086957b3.gif)
+[![Example](https://github.com/qianqian978/react-keypress/blob/master/gif.gif)]
 
 ## Type
 
@@ -21,15 +8,15 @@
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <img width="240px" src="https://i.loli.net/2018/05/16/5afc5360a4c21.jpg">
+        <img width="240px" src="https://github.com/qianqian978/react-keypress/blob/master/pic1.jpg">
         <p>decimal</p>
       </td>
       <td align="center" valign="middle">
-        <img width="240px" src="https://i.loli.net/2018/05/17/5afc59314b61c.jpg">
+        <img width="240px" src="https://github.com/qianqian978/react-keypress/blob/master/pic2.jpg">
         <p>integer/phone</p>
       </td>
       <td align="center" valign="middle">
-        <img width="240px" src="https://i.loli.net/2018/05/16/5afc5360c635f.jpg">
+        <img width="240px" src="https://github.com/qianqian978/react-keypress/blob/master/pic3.jpg">
         <p>idcard</p>
       </td>
     </tr>
@@ -49,7 +36,7 @@
 ### Install
 
 ```shell
-yarn add digital-keyboard --dev
+npm install digital-keyboard --save-dev
 ```
 
 ### Usage Example
@@ -162,11 +149,4 @@ export default {
 }
 </script>
 ```
-## How to Contribute
-
-Anyone and everyone is welcome to contribute to this project. The best way to start is by checking our [open issues](https://github.com/simbawus/DigitalKeyboard/issues),[submit a new issues](https://github.com/simbawus/DigitalKeyboard/issues/new?labels=bug) or [feature request](https://github.com/simbawus/DigitalKeyboard/issues/new?labels=enhancement), participate in discussions, upvote or downvote the issues you like or dislike.
-
-## License
-
-[**The MIT License**](http://opensource.org/licenses/MIT).
 
